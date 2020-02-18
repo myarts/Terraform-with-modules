@@ -1,3 +1,3 @@
 module "myec2_module" {
-  source = "../../modules"
+  source = "../../modules/ec2/"
 }
